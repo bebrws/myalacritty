@@ -1,0 +1,27 @@
+{
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Dare (rainglow)",
+    "editor.fontSize": 13,
+    "window.zoomLevel": 1,
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "todo-tree.tree.showScanModeButton": false,
+    "workbench.iconTheme": "bearded-icons",
+    "rust.cargoPath": "/Users/bbarrows/.cargo/bin/cargo",
+    "rust.cargoHomePath": "/Users/bbarrows/.cargo",
+    "rust.rustfmtPath": "/Users/bbarrows/.cargo/bin/rustfmt",
+    "rust.rustsymPath": "/Users/bbarrows/.cargo/bin/rustsym",
+    "rust.rustLangSrcPath": "/Users/bbarrows/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src",
+    "rust.mode": "rls",
+    "rust.rls": {
+      "executable": "/Users/bbarrows/.cargo/bin/rls",
+      "useRustfmt": true
+    },
+    "rust.jobs": 10
+}
+

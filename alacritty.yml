@@ -10,7 +10,7 @@ window:
   dynamic_padding: true
   decorations: buttonless
 scrolling:
-  history: 10000
+  history: 50000
   multiplier: 15
 key_bindings:
   - key: W
@@ -109,8 +109,8 @@ key_bindings:
 font:
   size: 13
   normal:
-    family: Menlo
-    style: Regular
+    family: BlexMono Nerd Font
+    style: Book
   bold:
     family: Menlo
     style: Bold
